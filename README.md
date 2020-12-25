@@ -7,3 +7,5 @@ THis can be then checked with the original unaltered image(full image) for corre
 Note: Please run the reuirements.txt with pip install -r requirements.txt from the folder. Then attemp to run the notebook.
 
 Dataset used is also available in the repository and taken from https://www.kaggle.com/oddrationale/mnist-in-csv
+
+DeepAutoCOmpleteDigits.rar contains the train(mnist_train.csv) and test(mnist_test.csv) files. Please unpack it and store in the same folder before running notebook.
